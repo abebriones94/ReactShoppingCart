@@ -1,0 +1,33 @@
+.CartItem {
+  margin-top: 2em;
+  height: 100px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.CartItem div {
+  width: 25%;
+}
+
+.CartItem button {
+  background-color: #f77;
+  width: 25px;
+  height: 25px;
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  margin: 0 10px;
+  font-size: 17px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+/* hover on button and have it pop out a tiny bit */
+.CartItem button:hover {
+  background-color: #f66;
+  transform: scale(1.1);
+}
+
+.CartItem button:disabled {
+  background-color: #ccd2d79d;
+}

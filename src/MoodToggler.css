@@ -1,0 +1,16 @@
+.MoodToggler {
+  background-color: #ffb2b2;
+  text-align: center;
+  padding: 1rem;
+
+  color: #ffffff;
+  font-size: 40px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  padding: 5px;
+  border: 1px solid #000000;
+  border-radius: 5px;
+  cursor: pointer;
+  margin: 5px;
+  width: 100px;
+}
