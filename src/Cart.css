@@ -1,13 +1,13 @@
 body {
-  background: linear-gradient(45deg, forestgreen, transparent 40%),
-    linear-gradient(-125deg, red, transparent 40%), #f77;
+  background: linear-gradient(90deg, forestgreen, transparent 90%),
+    linear-gradient(-105deg, red, transparent 40%), #f77;
   height: 100vh;
   overflow: hidden;
 }
 
 .Cart {
   width: 650px;
-  margin: 70px auto;
+  margin: 75px auto;
   border-radius: 12px;
   background-color: #f5f5dc;
   box-shadow: 1px 2px 3px 0px rgba(0, 0, 0, 0.8);
